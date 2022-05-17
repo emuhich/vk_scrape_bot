@@ -1,0 +1,6 @@
+asyncpg
+aiogram
+aiohttp
+aioredis
+python-dotenv
+vk_api
